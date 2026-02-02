@@ -22,3 +22,12 @@ chery peak dans main??
 HEROKU,  -> methode de deployemt
 
 tl no miregle comflita
+
+
+-----------------------
+
+creer sprint/0/addin-readme (TL)->clone->demande pull-request (dev)
+creer staging0/sprint/0(test/deploy local)
+si erreur : satage-> fix/sptint/0/1-adding-readme -> pull request->cherry pick avec main 
+sup les branches
+creer repertoire script avec date
