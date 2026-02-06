@@ -1,0 +1,23 @@
+VENDREDI Env 2 back et front : bdd, librairies, todo, 
+
+-reservation_voiture(infoclient, nbpassager (ex : 11), dateheure, hotel)
+							date 1 h1
+							date 1 h2 (regroupena raha ao anaty TA)
+
+-vehicule(capacite, typr (diesel, essence)) 
+parametre(vitesse moyenne (motivy daholo 30 km/h), temps attente TA)
+
+-> Ordre de depart :
+Num voiture, client, heure depart, destinations
+
+depart aeroport la voiture 00:00
+x jour avant le manao reservation
+Izay manana capacite akaiky anle nb passager no andefasana anazy
+Izay mbola tsy nandeh na trajet kely
+Izay diesel
+Random
+distance A B, ...
+
+*fitsarana : manome donnees, alea
+
+			
